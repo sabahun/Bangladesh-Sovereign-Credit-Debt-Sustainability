@@ -6,7 +6,7 @@
 
 A 13-section, reproducible study of Bangladesh's growth model and its external vulnerabilities, benchmarked against Vietnam, Pakistan, and Cambodia. Sections 1–8 establish the empirical record; Sections 9–13 apply the questions a sovereign-credit or development-finance analyst would ask next.
 
-**Read the findings memo:** [Bangladesh's External Debt Is a Liquidity Problem, Not a Solvency Problem](Salam_Sabahun_BDExternalDebtLiquidityProblem.pdf) (writing sample, October 2026)
+**Read the findings memo:** [Bangladesh's External Debt Is a Liquidity Problem, Not a Solvency Problem](Bangladesh_External_Debt_Is_a_Liquidity_Problem_Not_a_Solvency_Problem.pdf) (writing sample, October 2026)
 
 ## Headline findings
 
